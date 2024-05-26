@@ -1,0 +1,10 @@
+/* .comboboxstyle{
+    border: 1px solid #000;
+    margin-bottom: 0.5rem;
+    margin-right: 2rem;
+    width: 30rem;
+} */
+
+.comboboxstyle select {
+    border: 2px solid black;
+}

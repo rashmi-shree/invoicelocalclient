@@ -1,0 +1,840 @@
+input::-webkit-outer-spin-button,
+        input::-webkit-inner-spin-button {
+            -webkit-appearance: none;
+            margin: 0;
+        }
+  
+        input[type=number] {
+            -moz-appearance: textfield;
+        }
+.navigationContainer{
+    padding-top: 10rem;
+    padding-bottom: 8rem;
+}
+#selectmultiple{
+    width: 100%;
+}
+#standard-basic label{
+    border: 2px solid red;
+}
+.tableContainer{
+    margin-left: 4rem;
+}
+.inputandsubmitdesign div{
+    margin: 0.5rem;
+}
+.inputstyle p{
+    font-size: 16px;
+    font-weight: 700;
+}
+.inputstyle input {
+    margin-left: 1rem;
+}
+.BtnContainerstyle{
+    display: flex;
+    justify-content: center;
+}
+.BtnContainerstyle #btn{
+    font-size: 1rem;
+    margin-top: 1rem;
+}
+.addemployeestyle{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 6rem;
+    margin-bottom: -4rem;
+}
+.searchbarstyle{
+    margin-left: 4rem;
+    display: flex;
+    justify-content: center;
+}
+.searchbarstyle input{
+    border: none;
+    /* margin-left: 22rem; */
+    width: 16rem;
+    border-bottom: 2px solid;
+}
+.searchbarstyle input:focus {
+    outline: none;
+  }
+  .searchbarstyle input:active {
+    outline: none;
+  }
+/* header start */
+.headercontainer{
+    background-color: white;
+    z-index: 100;
+    height: 6rem;
+    position: fixed;
+    width: 100%;
+    /* border-bottom: 1px solid gray; */
+    /* margin-left: 6rem; */
+    padding-top: 1rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.custsaveicon{
+    font-size: 2rem!important;
+    margin-right: 1rem;
+}
+.custcancelicon{
+    font-size: 2rem!important;
+}
+.containeritems{
+    border-bottom: 1px solid #bdbbbb;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0.5rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.companyname{
+    font-size: 20px;
+    color: black;
+    font-family: ui-sans-serif;
+    font-weight: 800;
+}
+/* header end */
+
+.css-i4bv87-MuiSvgIcon-root{
+    font-size: 2rem !important;
+}
+.cardcontainer{
+    background-color: white;
+    padding: 2rem;
+    margin: 3rem;
+    width:47%;
+    height: 80%;
+    box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);
+    transition:0.3s;
+    border-radius: 0.5rem;
+    padding: 2.5rem;
+    margin-left: 7rem;
+}
+.cardcontainer:hover{
+    box-shadow: 0 8px 12px 0 rgb(246, 244, 244);
+}
+
+
+/* view invoice start  */
+table .theadalter{
+    background-color: black;
+    color: white;
+  }
+  .pageheading{
+    font-size: 23px;
+    /* text-decoration: underline; */
+    margin: 2rem;
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+  }
+  /* td, th {
+    border: 1px solid black;
+    text-align: left;
+    padding: 1rem;
+  } */
+  
+  .displayContainer{
+      padding: 2rem;
+  }
+  .viewInvoicePageContainer{
+    /* background-color: white; */
+    padding-right: 4rem;
+    padding-top: 13rem;
+    padding-bottom: 9rem;
+  }
+  .nameandbackarrow{
+    display: flex;
+    justify-content: end;
+  }
+  /* view invoice end  */
+
+  /* customized search bar start  */
+  .custsearchbarcontainer{
+      display: flex;
+      justify-content: center;
+    }
+
+    .MuiInputBase-formControl {
+        border-bottom: 2px solid black;
+    }
+/* customized search bar end  */
+
+/* Customized Text start  */
+.customizedtextcontainer{
+    color: black;
+    font-size: 12px;
+    width: 14rem;
+    margin-top: 1rem;
+    margin-right: 0rem;
+}
+/* Customized Text end  */
+
+/* Customized Button start */
+
+.btndesign{
+    display: flex;
+}
+.btndesign .cbtn{
+    padding: 0.2rem;
+}
+/* .btnstyle #btn {
+    font-size: 9px;
+    padding: 3%;
+} */
+.btnstyle Button{
+    border: 2px solid black;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    box-shadow: 0 4px #999;
+    border-radius: 12px;
+    border: none;
+    cursor: pointer;
+    color: white;
+    font-size: 9px;
+} 
+.btnstyle Button:hover {
+    background-color: #999;
+    box-shadow: 0 4px black;
+}
+.btnstyle Button:active {
+    background-color: #999;
+    box-shadow: 0 5px black !important;
+    transform: translateY(4px);
+  }
+
+/* Customized Button end */
+
+/* Generate report start  */
+.reportcontainer{
+    /* border: 2px solid white; */
+    padding-top: 5rem;
+    padding-top: 5rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    /* background-color: white; */
+}
+  .tabpanelheader{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+  }
+  .fromtodownloadlinkcontainer{
+      display: flex;
+      flex-direction: column;
+  }
+  .fromtodownloadcontainer{
+      display: flex;
+  }
+  .fromcontainer{
+      display: flex;
+  }
+  .tocontainer{
+      display: flex;
+  }
+  .atagfirst{
+      border-right: 2px solid black;
+      padding-right: 1rem;
+  }
+  .atagfirst a , .atagsecond a, .atagthird a, .atagfourth a{
+      color:black;
+  }
+  .atagsecond{
+    border-right: 2px solid black;
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+  .atagthird{
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  .atagfourth{
+    border-left: 2px solid #000;
+    padding-left: 1rem;
+  }
+  .paymentdeliveryfiltercontainer{
+      display: flex;
+      flex-direction: row;
+  }
+/* Generate report end  */
+
+/* update booking page start  */
+.footerbtn{
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem;
+}
+/* update booking page end  */
+
+/* customer invoice start  */
+.generateinvoicecontainer{
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+.backarrow{
+    color: black;
+    float: right;
+    margin: 2rem;
+}
+/* customer invoice end  */
+
+/* Footer start */
+.footercontainer{
+    background-color: white;
+    z-index: 100;
+    height: 9rem;
+    position: absolute;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.footerpartone{
+    display: flex;
+    padding: 2rem;
+    font-size: 13px;
+    color: black;
+}
+.footerpartone p{
+    margin-left: 2rem;
+}
+.footerparttwo{
+    display: flex;
+    padding: 2rem;
+    font-size: 13px;
+    color: black;
+    margin-left: 2rem;
+    margin-top: -4rem;
+}
+.footerparttwo p {
+    margin-right: 2rem;
+}
+.c1, .c2{
+    border-right: 2px solid white;
+    margin-right: 1rem;
+    padding-right: 1rem;
+}
+/* Footer end */
+
+/* Listing page start  */
+.loginPageContainer {
+    /* background-color: #F0F6F7FF; */
+    /* background: white; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 18rem;
+}
+.loginPageContainerChild {
+width: 100px;
+height: 100px;
+}
+.usernameandpass{
+    display: flex;
+    flex-direction: column;
+    margin: -9rem;
+    padding-top: 11rem;
+}
+.loginPageBtnContainer{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    margin-top: 12rem;
+    box-shadow: 0 4px #999;
+    border-radius: 7px;
+    border: none;
+    cursor: pointer;
+} 
+.loginPageBtnContainer:hover {
+    background-color: #999;
+    box-shadow: 0 4px black;
+}
+.loginPageBtnContainer:active {
+    background-color: #999;
+    box-shadow: 0 5px black !important;
+    transform: translateY(4px);
+  }
+.loginPageBtnContainer a {
+    color: white !important;
+    text-decoration: none;
+}
+/* Listing page end  */
+
+/* Text and Text input start  */
+.textandtextcontainer{
+    display: flex;
+}
+/* Text and Text input end  */
+
+/* Logout icon start */
+.logouticoncontainer{
+    color: black;
+}
+/* Logout icon end */
+
+/* open modal start  */
+.modalbutton Button{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    box-shadow: 0 4px #999;
+    border-radius: 12px;
+    border: none;
+    cursor: pointer;
+    color: white;
+    font-size: 10px;
+} 
+.modalbutton Button:hover {
+    background-color: #999;
+    box-shadow: 0 4px black;
+}
+.modalbutton Button:active {
+    background-color: #999;
+    box-shadow: 0 5px black !important;
+    transform: translateY(4px);
+  }
+.loginPageBtnContainer a {
+    color: #343148FF;
+    text-decoration: none;
+}
+/* open modal end  */
+
+.table-responsive{
+    margin-top:6rem ;
+}
+
+/* Add customer page start  */
+.addcustpagecontainer{
+    /* background-color: white; */
+    padding-top: 6rem;
+}
+.addcustpagesubcontainer{
+    padding-right: 3rem;
+    padding-bottom: 9rem;
+}
+/* Add customer page end  */
+
+/* generate invoice start  */
+.generateinvoicebackarrow{
+    margin-top: 7rem;
+}
+/* generate invoice end  */
+
+/* download delivery start  */
+
+.fromcontainer, .tocontainer{
+    display: flex;
+    margin-right: 1rem;
+}
+.fromcontainer .customizedaltertextdesign, .tocontainer .customizedaltertextdesign{
+    width: 3rem;
+    margin-top: 0rem;
+}
+.searchicon{
+    color: black !important;
+}
+/* download delivery end  */
+
+/* text and select start  */
+.textandselectcontainer{
+    display: flex;
+    flex-direction: row;
+}
+.textandselectcontainer .customizedaltertextdesign{
+    width: 4rem;
+}
+.generatereportbackarrow{
+    margin-top: 15.5rem;
+}
+/* text and select end  */
+
+/* display product details start  */
+.editdeletecontainer{
+    display: flex;
+}
+
+  .deleteiconcontainer #deleteicon{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    box-shadow: 0 4px #999;
+    border-radius: 12px;
+    border: none;
+    cursor: pointer;
+    color: white;
+    width: 3.7rem;
+    height: 2.2rem;
+    margin-left: 1rem;
+} 
+.deleteiconcontainer #deleteicon:hover {
+    background-color: #7aadf0;
+}
+.deleteiconcontainer #deleteicon:active {
+    background-color: #235789;
+    box-shadow: 0 5px #7aadf0 !important;
+    transform: translateY(4px);
+  }
+/* display product details end  */
+
+/* invoice format start  */
+.invoiceformatcontainer{
+    /* border: 2px solid black; */
+    margin-top: -3rem;
+    color: black;
+    padding: 1rem;
+    background-color: white;
+}
+.invoiceheader{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 3rem;
+    margin-right: 1rem;
+}
+.tbl{
+    border: 2px solid red;
+}
+.tbl thead , .tbl tbody{
+    color: black;
+    border: 2px solid black;
+}
+.tbl tbody tr td {
+    border: 2px solid black;
+}
+.theaddiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 1rem;
+    margin-left: 2rem;
+    margin-right: -8rem;
+}
+.theaddiv h6, .theaddiv h5, .theaddiv p {
+    text-align: center;
+}
+.innertable{
+    display: flex;
+    flex-direction: row;
+}
+/* invoice format end  */
+
+/* main page start */
+.mainpagecontainer{
+    background-color: #cfcfcf;
+}
+/* main page end */
+
+/* navigation tiles start */
+.navigationcontainer{
+    border: 2px solid black;
+}
+/* .navigationicon{
+    color: #235789;
+} */
+/* navigation tiles end */
+
+/* Add customers start  */
+.nameandinputcontainer{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+}
+.submitcontainee{
+    margin: 2rem;
+    display: flex;
+    justify-content: center;
+}
+.divider{
+    border: 1px solid darkgray;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    border-style: dashed;
+    margin-right: 5rem;
+}
+/* Add customers end  */
+
+/* dealers invoice form generate start  */
+
+.invoiceformatcontainer{
+    color: black;
+    padding: 1rem;
+    background-color: white;
+}
+.invoiceheader{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 3rem;
+    margin-right: 1rem;
+}
+.tbl thead , .tbl tbody{
+    color: black;
+    border: 2px solid black;
+}
+.tbl tbody tr td {
+    border: 2px solid black;
+}
+.theaddiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 1rem;
+}
+.theaddiv h6, .theaddiv h5, .theaddiv p {
+    text-align: center;
+}
+.innertable{
+    display: flex;
+    flex-direction: row;
+}
+
+/* dealers invoice form generate end  */
+
+/* Download icon start  */
+.downloadicon{
+    color: black;
+}
+/* Download icon end  */
+
+/* customized select start  */
+#demo-simple-select-standard-label{
+    color:black;
+}
+/* customized select end  */
+
+/* display product details table start  */
+.editanddeleteicons{
+    display: flex;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+/* display product details table end  */
+
+/* customized edit icon start  */
+.custediticon{
+    font-size: 1.5rem !important;
+}
+/* customized edit icon end  */
+
+/* logo start  */
+.imagecontainer img{
+    width: 3rem;
+}
+/* logo end  */
+
+
+.menuitemcontainer{
+    border: 2px solid black;
+    display: flex;
+}
+.plus {
+    border: 2px solid black;
+    padding:2.5px;
+    margin-left: 2rem;
+}
+.minus{
+    border: 2px solid black;
+    padding:2.5px;
+    margin-left: 1rem;
+}
+/* add few customers start */
+.productnamedesign{
+    padding: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.incrementdecrement{
+    display: flex;
+}
+.incrementdecrement p{
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+/* add few customers end */
+
+.formdatastyle{
+    display: flex;
+    flex-direction: column;
+}
+.formdatalabelstyle{
+    /* border: 2px solid black; */
+    display: inline-flex;
+    width: 100%;
+}
+.formnamestyle{
+    margin-right: 1rem;
+    width: 10rem;
+    font-style: italic;
+    font-family: monospace;
+    font-weight: 600;
+}
+.selectedproductheading{
+    font-style: italic;
+    font-family: monospace;
+    font-weight: 600;
+}
+.formcontainer{
+    display: flex;
+    /* padding-left: 5rem; */
+    flex-direction: column;
+}
+.formdatainputstyle{
+    width:100%;
+}
+
+.formdatainputstyle input{
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: rgb(81, 80, 80);
+    width: 100%;
+}
+.formdatainputstyle textarea {
+    width: 28rem;
+}
+.verificationstyle{
+    text-align: center;
+    font-weight: bold;
+    text-decoration-line: underline;
+}
+.formheading{
+    /* border: 2px solid black; */
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.formheading h5 {
+    font-weight: bolder;
+    line-height: 3rem;
+    text-decoration-line: underline;
+    font-family: ui-monospace;
+}
+.cardlabel {
+    margin-top: -2rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family: ui-monospace;
+}
+.cardname {
+    margin-bottom: -5rem;
+    margin-top: 3rem;
+}
+.rowcontainer{
+    padding-top: 11rem;
+    padding-bottom: 10rem;
+}
+.tablebackground{
+    background-color: white;
+}
+.modalandback{
+    margin-top: 5rem;
+    padding-left: 4rem;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: -5rem;
+}
+.adddealersbtnstyle{
+    margin-top: 4rem;
+    margin-bottom: -3rem;
+}
+.comboboxselectstyle{
+    width: 100%;
+}
+.invoicecontainer{
+    display: flex;
+    justify-content: space-between;
+}
+.lightstyle{
+    font-weight: lighter;
+}
+.invoicenamestyle{
+    font-size: larger;
+    font-weight: bold;
+    font-family: monospace;
+}
+.asteriskstyle{
+    color: red;
+    font-weight: bolder;
+    font-size: 1rem;
+}
+.errormsgstyle{
+    color: red;
+    font-size: 0.7rem;
+    margin-top: 0.3rem;
+}
+.addressstyle{
+    margin-right: -10rem;
+}
+.invoiceheading{
+    display: flex;
+    margin-top: 3rem;
+    margin-bottom: -5rem;
+    font-size: 19px;
+    justify-content: center;
+    font-weight: bold;
+}
+@media screen and (max-width: 420px) {
+    .backarrowcustomerpage{
+        margin-left: 26rem;
+    }
+    .footercontainer {
+        background-color: white;
+        z-index: 100;
+        height: 15rem;
+        position: absolute;
+        width: 47rem;
+        display: flex;
+        flex-direction: column;
+        margin-top: 2.8rem;
+    }
+    .loginPageContainer{
+        margin-left: 6rem;
+    }
+    .cardcontainer{
+        margin-left: 17rem;
+    }
+    .pageheading {
+        font-size: 15px;
+        display: -webkit-inline-box;
+        font-weight: 600;
+    }
+    .custsearchbarcontainer {
+        display: flex;
+        margin-left: 21rem;
+        font-size: 70%;
+    }
+    .backarrow {
+        margin-left: 37rem !important;
+        float: none;
+        margin-top: -1rem;
+    }
+    .table-responsive {
+
+        margin-left: 1rem;
+        width: 37rem;
+    }
+    .css-1ukj8j3 {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 42rem !important;
+        height: 52rem !important;
+        background-color: rgb(255, 255, 255);
+        border: 2px solid rgb(0, 0, 0);
+        box-shadow: rgb(0 0 0 / 20%) 0px 11px 15px -7px, rgb(0 0 0 / 14%) 0px 24px 38px 3px, rgb(0 0 0 / 12%) 0px 9px 46px 8px;
+        padding: 32px;
+        overflow: scroll;
+    }
+    .tbl {
+        width: 1rem;
+        margin-left: 3rem;
+        font-size: 14px;
+    }
+    .formheading {
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        width: 36rem;
+    }
+  }
