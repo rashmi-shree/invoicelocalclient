@@ -32,7 +32,7 @@ If you have any feedback, please reach out to me at rashmidivya.shree6@gmail.com
 
 ## Screenshots
 
-https://github.com/rashmi-shree/invoicelocalclient/blob/main/screenshots/1.jpg?raw=true
+https://raw.githubusercontent.com/rashmi-shree/invoicelocalclient/main/screenshots/1.jpg
 
 
 https://github.com/rashmi-shree/invoicelocalclient/blob/main/screenshots/2.jpg?raw=true
