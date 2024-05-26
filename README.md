@@ -34,18 +34,14 @@ If you have any feedback, please reach out to me at rashmidivya.shree6@gmail.com
 
 ![alt text](https://raw.githubusercontent.com/rashmi-shree/invoicelocalclient/main/screenshots/1.jpg)
 
+![alt text](https://github.com/rashmi-shree/invoicelocalclient/blob/main/screenshots/2.jpg?raw=true)
 
+![alt text](https://github.com/rashmi-shree/invoicelocalclient/blob/main/screenshots/3.jpg?raw=true)
 
+![alt text](https://github.com/rashmi-shree/invoicelocalclient/blob/main/screenshots/4.jpg?raw=true)
 
+![alt text](https://github.com/rashmi-shree/invoicelocalclient/blob/main/screenshots/5.jpg?raw=true)
 
-https://github.com/rashmi-shree/invoicelocalclient/blob/main/screenshots/2.jpg?raw=true
+![alt text](https://github.com/rashmi-shree/invoicelocalclient/blob/main/screenshots/6.jpg?raw=true)
 
-https://github.com/rashmi-shree/invoicelocalclient/blob/main/screenshots/3.jpg?raw=true
-
-https://github.com/rashmi-shree/invoicelocalclient/blob/main/screenshots/4.jpg?raw=true
-
-https://github.com/rashmi-shree/invoicelocalclient/blob/main/screenshots/5.jpg?raw=true
-
-https://github.com/rashmi-shree/invoicelocalclient/blob/main/screenshots/6.jpg?raw=true
-
-https://github.com/rashmi-shree/invoicelocalclient/blob/main/screenshots/7.jpg?raw=true
+![alt text](https://github.com/rashmi-shree/invoicelocalclient/blob/main/screenshots/7.jpg?raw=true)
