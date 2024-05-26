@@ -13,9 +13,10 @@ https://react.dev/blog/2022/03/29/react-v18
 ## Installation
 
 1. git clone https://github.com/rashmi-shree/invoicelocalclient.git
-2. npm install / yarn install
-3. yarn add @mui/material
-4. yarn start
+2. cd invoicelocalclient
+3. npm install / yarn install
+4. yarn add @mui/material
+5. yarn start
 
 # Link to server code
 
