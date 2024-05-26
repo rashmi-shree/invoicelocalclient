@@ -17,7 +17,7 @@ https://react.dev/blog/2022/03/29/react-v18
 3. yarn add @mui/material
 4. yarn start
 
-# link to server code
+# Link to server code
 
 https://github.com/rashmi-shree/invoicelocalserver
 
